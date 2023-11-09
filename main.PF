@@ -1,0 +1,11 @@
+	 // %CSTD===========================================================*
+
+	 // %ECSTD==========================================================*
+
+	 A                                      UNIQUE
+     A          R EFFECTIFF
+     A            MATRICULE      4  0
+     A            NOM           35
+     A            PRENOM        20
+     A            ANCIENNETE     2  0
+     A          K MATRICULE         
